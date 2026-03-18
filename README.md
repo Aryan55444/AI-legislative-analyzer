@@ -1,6 +1,6 @@
 # AI Legislative Analyzer
 
-A small FastAPI app for uploading legal or policy documents, indexing them with Gemini embeddings, and generating grounded analysis with retrieval.
+FastAPI service for uploading legal and policy documents, indexing them with Gemini embeddings, and answering questions with cited, retrieval-based analysis.
 
 ## What it does
 
