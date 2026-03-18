@@ -1,0 +1,19 @@
+Digital Data Privacy and Consumer Protection Bill
+
+Section 1. Purpose
+This bill proposes regulations on digital data privacy, requiring companies to store user data securely and notify users in case of breaches. The purpose of the bill is to reduce consumer harm, improve transparency, and create baseline standards for responsible data handling.
+
+Section 2. Security Requirements
+Organizations that collect, process, or store personal data must implement reasonable administrative, technical, and physical safeguards. These safeguards should be proportionate to the sensitivity of the data and the size of the organization.
+
+Section 3. Breach Notification
+If a security breach exposes personal information, affected users must be notified without unreasonable delay. Companies must also report material breaches to the designated regulatory authority within seventy-two hours.
+
+Section 4. Consumer Rights
+Individuals may request access to their stored personal data, ask for corrections, and request deletion when retention is no longer necessary under law or contract.
+
+Section 5. Enforcement
+The regulator may investigate repeated failures to comply with this bill and may issue civil penalties, corrective orders, or public notices of non-compliance.
+
+Section 6. Business Impact
+Small businesses may need support to implement compliant security controls. Larger platforms may face increased audit, governance, and incident-response obligations.
