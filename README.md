@@ -46,7 +46,7 @@ FILES: Saved in storage/uploads | Embeddings: storage/vector_store
 
 1. **Clone this repo:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Aryan55444/AI-legislative-analyzer
    cd AI-legislative-analyzer
    ```
 2. **Create and activate a virtualenv:**
